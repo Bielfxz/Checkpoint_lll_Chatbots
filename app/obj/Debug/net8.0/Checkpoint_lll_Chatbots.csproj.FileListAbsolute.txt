@@ -1,0 +1,15 @@
+/workspaces/Checkpoint_lll_Chatbots/app/obj/Debug/net8.0/Checkpoint_lll_Chatbots.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Checkpoint_lll_Chatbots/app/obj/Debug/net8.0/Checkpoint_lll_Chatbots.AssemblyInfoInputs.cache
+/workspaces/Checkpoint_lll_Chatbots/app/obj/Debug/net8.0/Checkpoint_lll_Chatbots.AssemblyInfo.cs
+/workspaces/Checkpoint_lll_Chatbots/app/obj/Debug/net8.0/Checkpoint_lll_Chatbots.csproj.CoreCompileInputs.cache
+/workspaces/Checkpoint_lll_Chatbots/app/obj/Debug/net8.0/Checkpoint_lll_Chatbots.sourcelink.json
+/workspaces/Checkpoint_lll_Chatbots/app/bin/Debug/net8.0/Checkpoint_lll_Chatbots
+/workspaces/Checkpoint_lll_Chatbots/app/bin/Debug/net8.0/Checkpoint_lll_Chatbots.deps.json
+/workspaces/Checkpoint_lll_Chatbots/app/bin/Debug/net8.0/Checkpoint_lll_Chatbots.runtimeconfig.json
+/workspaces/Checkpoint_lll_Chatbots/app/bin/Debug/net8.0/Checkpoint_lll_Chatbots.dll
+/workspaces/Checkpoint_lll_Chatbots/app/bin/Debug/net8.0/Checkpoint_lll_Chatbots.pdb
+/workspaces/Checkpoint_lll_Chatbots/app/obj/Debug/net8.0/Checkpoint_lll_Chatbots.dll
+/workspaces/Checkpoint_lll_Chatbots/app/obj/Debug/net8.0/refint/Checkpoint_lll_Chatbots.dll
+/workspaces/Checkpoint_lll_Chatbots/app/obj/Debug/net8.0/Checkpoint_lll_Chatbots.pdb
+/workspaces/Checkpoint_lll_Chatbots/app/obj/Debug/net8.0/Checkpoint_lll_Chatbots.genruntimeconfig.cache
+/workspaces/Checkpoint_lll_Chatbots/app/obj/Debug/net8.0/ref/Checkpoint_lll_Chatbots.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Checkpoint_lll_Chatbots/1.0.0": {
+        "runtime": {
+          "Checkpoint_lll_Chatbots.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Checkpoint_lll_Chatbots/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
